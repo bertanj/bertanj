@@ -7,50 +7,86 @@
 
 ---
 
-## ⚡ Hard Skills
+<p align="center">
+ ⚡ Hard Skills
+</p>
 
-### Programming & Markup Languages  
+
+<p align="center">
+ Programming & Markup Languages  
+</p>
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,nodejs,js,ts,html,css" />
 </p>
 
-### Frameworks & Libraries  
+
+<p align="center">
+ Frameworks & Libraries  
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,dotnet,react,expo,docker" />
 </p>
 
-### Tools  
+
+<p align="center">
+ Tools  
+</p>
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=swagger,postman,figma,trello" />
 </p>
 
-### Databases  
+
+<p align="center">
+ Databases  
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
-### Version Control  
+
+<p align="center">
+ Version Control  
+</p>
+
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </p>
 
+
 ---
 
-## 📊 Github Stats  
+
+<p align="center">
+ 📊 Github Stats  
+</p>
+
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bertanj&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertanj&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
+
 ---
 
-## 🚀 Featured Projects  
+
+ 🚀 Featured Projects  
 <p align="center"><i>(coming soon...)</i></p>
 
 ---
 
-## 🌐 Connect with me  
+
+<p >
+ 🌐 Connect with me  
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateusbertani" target="_blank">
@@ -61,11 +97,13 @@
   </a>
 </p>
 
+
 ---
 
-## 🛠️ Tech Badges  
 
-<p align="center">
+🛠️ Tech Badges  
+
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
