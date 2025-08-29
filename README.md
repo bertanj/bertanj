@@ -3,7 +3,6 @@
 
 <p align="center">
   Currently working with <strong>Java</strong> & <strong>Spring Framework</strong><br>
-  Main technologies: <strong>Java, C#, MongoDB</strong>
 </p>
 
 ---
@@ -11,27 +10,27 @@
 ## ⚡ Hard Skills
 
 ### Programming & Markup Languages  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,cs,nodejs,js,ts,html,css" />
 </p>
 
 ### Frameworks & Libraries  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=spring,dotnet,react,expo,docker" />
 </p>
 
 ### Tools  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=swagger,postman,figma,trello" />
 </p>
 
 ### Databases  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
 ### Version Control  
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab" />
 </p>
 
@@ -47,13 +46,13 @@
 ---
 
 ## 🚀 Featured Projects  
-*(coming soon...)*
+<p align="center"><i>(coming soon...)</i></p>
 
 ---
 
 ## 🌐 Connect with me  
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mateusbertani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -66,7 +65,7 @@
 
 ## 🛠️ Tech Badges  
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
