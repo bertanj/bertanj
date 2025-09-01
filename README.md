@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,react,expo,docker" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,react,docker" />
 </p>
 
 
