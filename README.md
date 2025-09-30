@@ -81,7 +81,39 @@
 
 
  🚀 Featured Projects  
-<p align="center"><i>(coming soon...)</i></p>
+<p align="center">
+  <a href="https://github.com/bertanj/rest-with-SpringBoot-and-Java" target="_blank">
+    <h3><strong>RESTful API with Spring Boot</strong></h3>
+  </a>
+  <em>API RESTful completa construída com Java e Spring Boot. Inclui operações CRUD, DTOs, content negotiation (JSON/XML), e princípios HATEOAS para gerenciamento de pessoas e livros.</em>
+  <br><br>
+  <strong>Tecnologias:</strong><br>
+  <p>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Mockito-4E87E0?style=for-the-badge&logo=mockito&logoColor=white"/>
+  </p>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/bertanj/PoupAI" target="_blank">
+    <h3><strong>PoupAI</strong></h3>
+  </a>
+  <em>Aplicativo mobile full-stack para finanças pessoais. Permite gerenciar despesas, receitas e metas, com frontend em React Native e backend em ASP.NET Core.</em>
+  <br><br>
+  <strong>Tecnologias:</strong><br>
+  <p>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </p>
+</p>
 
 ---
 
