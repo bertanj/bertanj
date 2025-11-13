@@ -85,7 +85,7 @@
   <a href="https://github.com/bertanj/rest-with-SpringBoot-and-Java" target="_blank">
     <h3><strong>RESTful API with Spring Boot</strong></h3>
   </a>
-  <em>API RESTful completa construída com Java e Spring Boot. Inclui operações CRUD, DTOs, content negotiation (JSON/XML), e princípios HATEOAS para gerenciamento de pessoas e livros.</em>
+  <em>Complete RESTful API built with Java and Spring Boot. Includes CRUD operations, DTOs, content negotiation (JSON/XML), and HATEOAS principles for managing people and books.</em>
   <br><br>
   <strong>Tecnologias:</strong><br>
   <p>
@@ -104,7 +104,7 @@
   <a href="https://github.com/bertanj/PoupAI" target="_blank">
     <h3><strong>PoupAI</strong></h3>
   </a>
-  <em>Aplicativo mobile full-stack para finanças pessoais. Permite gerenciar despesas, receitas e metas, com frontend em React Native e backend em ASP.NET Core.</em>
+  <em>Full-stack mobile application for personal finance. Allows management of expenses, income, and goals, with a React Native frontend and an ASP.NET Core backend.</em>
   <br><br>
   <strong>Tecnologias:</strong><br>
   <p>
