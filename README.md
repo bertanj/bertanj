@@ -87,7 +87,7 @@
   </a>
   <em>Complete RESTful API built with Java and Spring Boot. Includes CRUD operations, DTOs, content negotiation (JSON/XML), and HATEOAS principles for managing people and books.</em>
   <br><br>
-  <strong>Tecnologias:</strong><br>
+  <strong>Technologies:</strong><br>
   <p>
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
@@ -106,7 +106,7 @@
   </a>
   <em>Full-stack mobile application for personal finance. Allows management of expenses, income, and goals, with a React Native frontend and an ASP.NET Core backend.</em>
   <br><br>
-  <strong>Tecnologias:</strong><br>
+  <strong>Technologies:</strong><br>
   <p>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
@@ -119,7 +119,7 @@
 
 
 <p >
- 🌐 Connect with me  
+ 🌐 Connect with me
 </p>
 
 
